@@ -9,7 +9,7 @@
   
   inputs.src-loco-develop.flake = false;
   inputs.src-loco-develop.owner = "moigagoo";
-  inputs.src-loco-develop.ref   = "refs/heads/develop";
+  inputs.src-loco-develop.ref   = "develop";
   inputs.src-loco-develop.repo  = "loco";
   inputs.src-loco-develop.type  = "github";
   
