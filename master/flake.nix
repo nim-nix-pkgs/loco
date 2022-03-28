@@ -11,7 +11,6 @@
   inputs.src-loco-master.ref   = "refs/heads/master";
   inputs.src-loco-master.owner = "moigagoo";
   inputs.src-loco-master.repo  = "loco";
-  inputs.src-loco-master.dir   = "";
   inputs.src-loco-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

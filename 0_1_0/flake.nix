@@ -11,7 +11,6 @@
   inputs.src-loco-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-loco-0_1_0.owner = "moigagoo";
   inputs.src-loco-0_1_0.repo  = "loco";
-  inputs.src-loco-0_1_0.dir   = "";
   inputs.src-loco-0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
